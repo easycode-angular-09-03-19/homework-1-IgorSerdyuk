@@ -11,3 +11,4 @@ console.log(`multiply(-7,58,4); Result = ${multiply(-7, 58, 4)}; Expected result
 console.log(`multiply(15,14,13,0); Result = ${multiply(15, 14, 13, 0)}; Expected result = 0`);
 console.log(`multiply(1,2,3,4,5,6); Result = ${multiply(1, 2, 3, 4, 5, 6)}; Expected result = 720`);
 console.log(`multiply(2,3,4,5,6,7) === fact(7); Result = ${multiply(2, 3, 4, 5, 6, 7) === fact(7)}; Expected result = true`);
+console.log('');
